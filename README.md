@@ -16,3 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Code Made More Modular and Understandable
+
+#This App uses a Geolocator API for the Live Location Tracker so that the tracking can be easy.
